@@ -13,3 +13,10 @@ let d = 10
 console.log(d, typeof d)
 d = '문자'
 console.log(d, typeof d)
+
+if(1 == 0) {
+    console.log('참')
+}
+else {
+    console.log('거짓')
+}
